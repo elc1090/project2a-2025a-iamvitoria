@@ -1,16 +1,14 @@
 # Projeto2a: GitHub API e DOM Manipulation
 
-![image](https://github.com/user-attachments/assets/2e58c4c1-65c9-4820-9e83-4388548e541e)
+![image](https://github.com/user-attachments/assets/c6ccb0a6-9ae7-4c72-a17f-595e6aee52a6)
 
 #### Deploy
 
-Preencha aqui a URL para acesso ao site publicado
-
+https://elc1090.github.io/project2a-2025a-iamvitoria/github-api-tutorial-main/index.html
 
 #### Desenvolvedor(a)
 
 Vitória Luiza Camara
-
 
 #### Ambiente de desenvolvimento
 
@@ -22,7 +20,7 @@ Vitória Luiza Camara
 
 #### Bastidores
 
-Preencha aqui um breve relato dos bastidores da realização deste exercício, com suas impressões.
+Foi um pouco confuso no início, mas depois percebi que o projeto já estava praticamente pronto. Só adicionei o campo de repositório no formulário e fiz deploy no GitHub Pages.
 
 
 
