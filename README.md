@@ -1,7 +1,6 @@
 # Projeto2a: GitHub API e DOM Manipulation
 
-![Screenshot do projeto](https://mdswanson.com/static/chops-ux-step-4.png "Screenshot do projeto").
-
+![image](https://github.com/user-attachments/assets/2e58c4c1-65c9-4820-9e83-4388548e541e)
 
 #### Deploy
 
@@ -16,14 +15,12 @@ Vitória Luiza Camara
 #### Ambiente de desenvolvimento
 
 - VS Code
-- Outras
 
 #### Créditos
 
-- URL de tutoriais/vídeos consultados
-- Giulia Rodrigues de Araújo
+- https://codesnippet.io/github-api-tutorial/
 
-
+#### Bastidores
 
 Preencha aqui um breve relato dos bastidores da realização deste exercício, com suas impressões.
 
